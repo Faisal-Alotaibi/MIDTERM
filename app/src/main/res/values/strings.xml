@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALOTAIBI-MidTerm-1,2022</string>
+    <string name="mainTXT">GO TO MAIN</string>
+    <string name="activity2TXT">GO TO MAIN</string>
+
+    <string name="Activity2TXT">GO TO 2</string>
+
+    <string name="Activity3TXT">GO TO 3</string>
+    <string name="Activity1TXT">GO TO 1</string>
+
+
+
+
+</resources>
